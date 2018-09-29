@@ -1,2 +1,14 @@
 从一个面试者角度重新审视
 从一个被面试者角度重新学习
+Java面试栈：
+基础篇：
+Linux网络编程
+数据结构和算法
+数据库（Mysql，redis，memcached）
+集合框架
+并发框架
+多线程
+框架篇：
+spring 
+netty
+zookeeper
