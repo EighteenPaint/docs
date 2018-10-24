@@ -1,0 +1,4 @@
+https://www.pyimagesearch.com/
+http://www.image-net.org/
+tensflow物体检测api：https://my.oschina.net/u/3027864/blog/2089110
+利用Keras实现图像分类与颜色分类 http://www.cnblogs.com/peacepeacepeace/p/9336218.html 可以实现衣服颜色尅
